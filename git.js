@@ -1,5 +1,5 @@
 
-/// GET DATE///
+/// GET DATE///     click and learn 
 const box = document.getElementById('box')
 // const btn1 = document.getElementById('btn1');
 const btn2 = document.getElementById('btn2');
